@@ -1,0 +1,15 @@
+[
+  {
+    "Author": "Akl",
+    "Name": "FAKE Name-A",
+    "InternalName": "DalamudCNStarter",
+    "AssemblyVersion": "0.3.0.0",
+    "Description": "按小队列表槽位设置八个别名，仅修改本机 _PartyList 界面的姓名显示。",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 15,
+    "Punchline": "在本地自定义小队列表中八名成员的显示姓名。",
+    "RepoUrl": "https://github.com/Alittlerecallinglittlebrother/FAKE-Name-A",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/Alittlerecallinglittlebrother/FAKE-Name-A/main/FAKE-Name-A.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Alittlerecallinglittlebrother/FAKE-Name-A/main/FAKE-Name-A.zip"
+  }
+]
