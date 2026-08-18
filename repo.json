@@ -3,12 +3,13 @@
     "Author": "Akl",
     "Name": "LiveFakeName",
     "InternalName": "DalamudCNStarter",
-    "AssemblyVersion": "0.4.0.0",
+    "AssemblyVersion": "0.4.1.0",
     "Description": "直播也要大大方方开！",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
     "Punchline": "直播也要大大方方开！",
     "RepoUrl": "https://github.com/Alittlerecallinglittlebrother/FAKE-Name-A",
+    "IconUrl": "https://raw.githubusercontent.com/Alittlerecallinglittlebrother/FAKE-Name-A/main/icon.png",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Alittlerecallinglittlebrother/FAKE-Name-A/main/FAKE-Name-A.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Alittlerecallinglittlebrother/FAKE-Name-A/main/FAKE-Name-A.zip"
   }
